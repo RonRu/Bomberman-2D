@@ -35,8 +35,8 @@ This game uses [SFML Library](https://www.sfml-dev.org/documentation/2.5.0/)
 
 <h2> Game keys </h2>
 
-* key up - up movment , key down - down movement , right - right movement , left - left movement.
-* b - throw bomb.
-* q - self kill.
-* p - pause.
+* **Up key** - up movment , **Down key** - down movement , **Right key** - right movement , **Left key** - left movement.
+* **B** - throw bomb.
+* **Q** - self kill.
+* **P** - pause.
 
