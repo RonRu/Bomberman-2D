@@ -1,4 +1,4 @@
-# Bomberman-2D_game
+# Bomberman-2D Game 
 The familiar game Bomberman was develop as part of final project in OOP course, 
 
 <h2> Introduction </h2>
