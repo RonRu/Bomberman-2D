@@ -3,7 +3,7 @@ The familiar game Bomberman was develop as part of final project in OOP course,
 
 <h2> Introduction </h2>
 
-Bomberman is maze video game
+Bomberman is a strategic, maze-based video game 
 
 This game uses <a href="https://www.sfml-dev.org/documentation/2.5.1/" target="_blank"> SFML</a>
 
