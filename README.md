@@ -33,7 +33,7 @@ This game uses [SFML Library](https://www.sfml-dev.org/documentation/2.5.0/)
 
 <h3> Windows </h3>
 
-* Open bomberman solution in Microsoft VS 2019 and click on build  bomberman solution.
+* Open **bomberman.sln** in Microsoft VS 2019 and click on build **bomberman solution**.
 
 <h2> Game keys </h2>
 
