@@ -27,7 +27,7 @@ This game uses [SFML Library](https://www.sfml-dev.org/documentation/2.5.0/)
 <h3> Windows </h3>
 
 * Visual C++ 15 (2019)
-& SFML 2.5v
+& SFML 2.5.0v
 
 <h2> Building the solution </h2>
 <h3> Windows </h3>
