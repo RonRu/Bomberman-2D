@@ -2,7 +2,7 @@
 The familiar game Bomberman was develop as part of final project in OOP course.
 There is two type of guards in this game:
 * **Random guard** (Gray) - move with random moves
-* **Wise guard** (Black) - Implemented with BFS Algorithem.
+* **Wise guard** (Black) - implemented with BFS Algorithem.
 
 <h2> Introduction </h2>
 
