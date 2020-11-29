@@ -1,7 +1,7 @@
 # Bomberman-2D Game 
 The familiar game Bomberman was develop as part of final project in OOP course.
 
-Develop by **Ron Rubin** and [Rima Ronen](https://github.com/rimaronen)
+Develop by [Ron Rubin](https://github.com/RonRu) and [Rima Ronen](https://github.com/rimaronen)
 
 <h2> Introduction </h2>
 
