@@ -5,6 +5,8 @@ Develop by Ron Rubin and [Rima Ronen](https://github.com/rimaronen)
 
 <h2> Introduction </h2>
 
+![bombermangif](https://user-images.githubusercontent.com/59437547/100543115-f392ea00-3256-11eb-89bc-f0daf35abfba.gif)
+
 Bomberman is maze stragetic video game,
 There is two type of guards in this game:
 * **Random guard** (Gray) - move with random moves
